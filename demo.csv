@@ -1,0 +1,8 @@
+"name","ring","quadrant","isNew","description"
+C#,adopt,Category_1,TRUE,Describe 1
+TypeScript,adopt,Category_2,TRUE, Description 2
+Go,trial,Category_3,TRUE, This is software 3
+Java,trial,Category_4,TRUE, This is also good
+MySoftware,evaluate,Category_3,False, Only for testing radar software
+Something,think about, Category_1, True, Only for testing radar server
+New_SW, think about, Category_1, True, Some Description 
